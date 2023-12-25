@@ -718,9 +718,10 @@ article .icon {
 
 /* FOOTER SECTION */
 
-footer {
+#footer {
     height: 26vh;
     margin: 0 1rem;
+    background-color: black;
 }
 
 footer p {
