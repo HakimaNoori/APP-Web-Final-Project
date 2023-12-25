@@ -341,7 +341,6 @@ article .icon {
     border-radius: 2rem;
     border: rgb(53, 53, 53) 0.1rem solid;
     border-color: rgb(163, 163, 163);
-    background: (250, 250, 250);
     margin: 2rem auto;
     padding: 0.5rem;
 }
@@ -371,16 +370,12 @@ article .icon {
 footer {
     height: 26vh;
     margin: 0 1rem;
+    margin-top: 0;
 }
 
 footer p {
     text-align: center;
 }
-
-;
-
-
-/* mesiaqueries */
 
 /* GENERAL */
 
@@ -755,7 +750,7 @@ nav #footer {
 /*  iframe  */
 .iframe {
     width: 100%;
-    height: 605;
+    height: 605px;
 }
 
 .iframe1 {
